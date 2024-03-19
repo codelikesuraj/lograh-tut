@@ -1,0 +1,15 @@
+{
+    "name": "codelikesuraj/lograh-tut",
+    "description": "A simple PHP project to demonstrate the usage of the codelikesuraj/lograh-php package.",
+    "type": "project",
+    "require": {
+        "codelikesuraj/lograh-php": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Abdulbaki Suraj",
+            "email": "codelikesuraj@gmail.com"
+        }
+    ]
+}

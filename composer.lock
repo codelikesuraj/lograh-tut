@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "6899e99bf2d518b2eed199fdf0e4a349",
+    "packages": [
+        {
+            "name": "codelikesuraj/lograh-php",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/codelikesuraj/lograh-php.git",
+                "reference": "254b0b96412a3dc8eca1398c96b8cf51ceb30ba8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/codelikesuraj/lograh-php/zipball/254b0b96412a3dc8eca1398c96b8cf51ceb30ba8",
+                "reference": "254b0b96412a3dc8eca1398c96b8cf51ceb30ba8",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Codelikesuraj\\LograhPHP\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Abdulbaki Suraj",
+                    "email": "codelikesuraj@gmail.com"
+                }
+            ],
+            "description": "A light-weight logger that logs to Telegram.",
+            "support": {
+                "issues": "https://github.com/codelikesuraj/lograh-php/issues",
+                "source": "https://github.com/codelikesuraj/lograh-php/tree/v1.0.0"
+            },
+            "time": "2024-02-22T21:04:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
