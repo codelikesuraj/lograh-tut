@@ -4,8 +4,8 @@ require_once("vendor/autoload.php");
 
 $logger = new Codelikesuraj\LograhPHP\Logger(
     appName: "Lograh Tutorial",
-    botToken: "7042233817:AAHvSeTiwhpUto96dANUyPWgaxOKwkgy6mM",
-    chatId: "1056417568"
+    botToken: "your_api_token",
+    chatId: "your_chat_id"
 );
 
 try {
